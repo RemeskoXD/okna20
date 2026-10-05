@@ -1,0 +1,6 @@
+{
+  "name": "Reno okna – Profesionální servis a kontrola oken na Moravě",
+  "description": "Profesionální servis a seřízení oken po celé Moravě. Bezplatná kontrola oken, výměna těsnění, servis kování a okamžitá online rezervace termínu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
