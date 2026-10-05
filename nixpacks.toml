@@ -1,0 +1,6 @@
+# Nixpacks configuration for Coolify
+[phases.install]
+cmds = ["npm install --legacy-peer-deps"]
+
+[phases.build]
+cmds = ["npm run build"]
